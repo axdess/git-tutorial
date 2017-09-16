@@ -1,6 +1,6 @@
-# Git½Ì³Ì
+# Gitæ•™ç¨‹
 
 - fix-B
 - feature--A
-- feature-C
+- feature-C 
 
